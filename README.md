@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on automating retail data execution reports for Nestlé at Promotick S.A.C.<br>
-🌱 I’m currently learning Active Directory attacks, Ghidra scripting, and WASM reverse engineering.<br>
-👯 I’m looking to collaborate on educational projects related to reverse engineering and malware analysis.<br>
+🔭 I’m currently working on automating retail data execution reports for Nestlé at Servicios BGM S.A.C.<br>
+🌱 I’m currently learning Active Directory attacks<br>
+👯 I’m looking to collaborate on educational projects related to automation.<br>
 🤝 I’m looking for help with real-time network traffic classification using NLP and anomaly detection.<br>
-💬 Ask me about Python automation, Power BI dashboards, PCAP-to-CSV pipelines, and Linux configs.<br>
+💬 Ask me about Python automation, PCAP-to-CSV pipelines, and Linux configs.<br>
 📫 How to reach me paul.murillo.d@uni.pe<br>
-⚡ Fun fact: currently building Sothrak-OS — a custom Arch Linux distro with Zen kernel and Hyprland, optimized for reverse engineering and red teaming.<br>
+⚡ Fun fact: currently building Sothrak-OS — a custom Arch Linux distro with Zen kernel and Hyprland, optimized for red teaming.<br>
 
 
 ## 🌐 Socials:
